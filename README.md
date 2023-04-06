@@ -1,5 +1,6 @@
 
-![ezgif com-crop](https://user-images.githubusercontent.com/96571298/230494137-8cc8652f-9be3-4a80-893d-2111ae8e13ac.gif)
+<img src="https://user-images.githubusercontent.com/96571298/230494137-8cc8652f-9be3-4a80-893d-2111ae8e13ac.gif" alt="Animated crop example" width="100%"/>
+
 
 
   
