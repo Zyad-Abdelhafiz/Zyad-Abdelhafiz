@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zyad-Abdelhafiz&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zyad-Abdelhafiz&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyad-Abdelhafiz&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zyad-Abdelhafiz&icon=6&color=7)](https://visitcount.itsvg.in)
