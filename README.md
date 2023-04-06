@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://i.ibb.co/WPJC1RP/zyad-basic-file.png" align="center" style="width: 30%" />
+<img src="https://i.ibb.co/xDcqqMs/Specular-Flow-Logo-Reveal-1080p-Adobe-Express.gif" align="center" style="width: 100%" />
 </div>  
-
+  
 
 # 💫 About Me:
 🌱 I’m currently learning Data science <br>
