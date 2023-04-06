@@ -1,9 +1,6 @@
 <div align="center">
 <img src="https://i.ibb.co/WPJC1RP/zyad-basic-file.png" align="center" style="width: 30%" />
 </div>  
-  
-
-
 
 
 # 💫 About Me:
