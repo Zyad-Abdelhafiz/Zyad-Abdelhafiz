@@ -1,7 +1,5 @@
 
-![Specular_Flow_Logo_Reveal_1080p_AdobeExpress](https://user-images.githubusercontent.com/96571298/230491048-b7768ca4-cb00-43a9-8b4f-dddc432b7fd3.gif)
-
-
+![ezgif com-crop](https://user-images.githubusercontent.com/96571298/230494137-8cc8652f-9be3-4a80-893d-2111ae8e13ac.gif)
 
 
   
